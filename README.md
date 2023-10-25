@@ -2,7 +2,8 @@
 Using NLP and LLM's, I trained a model that is capable of detecting spam replies to tweets. 
 
 ---
-This is based on ULM-fit:
+This is based on ULM-Fit from Jeremy Howard and Sebastian Ruder. You can read their paper here:
+[PAPER](https://arxiv.org/abs/1801.06146)
 ![Example Image](ulmfit-overview-new.png)
 
 ---
